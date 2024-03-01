@@ -14,5 +14,5 @@ What I Do
 🌐 Web development enthusiast, crafting interactive and user-friendly web pages with HTML, CSS, and JavaScript.
 Let's Connect!
 
-📫 Feel free to reach out to me via email@example.com for collaborations, projects, or just to say hello!
+📫 Feel free to reach out to me via xyprime2009@gmail.com for collaborations, projects, or just to say hello!
 📚 Check out my repositories below to see what I've been working on lately!
